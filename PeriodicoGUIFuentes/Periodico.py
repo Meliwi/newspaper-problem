@@ -24,4 +24,5 @@ def periodico(number_pages, topics, min_nb_pages, max_nb_pages, potential_reader
         chosen_topics.append(topics_list[index])
     for index in newspaper_topics_index:
         pages_topics.append(newspaper_list[index])
-    displayInfo()
+    
+    displayInfo(chosen_topics, pages_topics, sol_potential_readers, number_pages)

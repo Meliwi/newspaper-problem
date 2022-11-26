@@ -53,7 +53,7 @@ potential_readers_field.place(x=50, y=350, width=400, height=40)
 potential_readers_field.configure(highlightbackground="#CCCCCC", highlightcolor="#CCCCCC")
 
 #Number of pages
-number_pages = Label(form, text="Potential readers", bg="#fff", fg="#765706", font='Helvetica 12')
+number_pages = Label(form, text="Number of pages", bg="#fff", fg="#765706", font='Helvetica 12')
 number_pages_field = EntryWithPlaceholder(form, "10")
 number_pages.place(x=50, y=410)
 number_pages_field.place(x=50, y=440, width=400, height=40)
