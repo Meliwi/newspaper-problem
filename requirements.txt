@@ -1,3 +1,4 @@
 minizinc
 tk
 Pillow
+matplotlib

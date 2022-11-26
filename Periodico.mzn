@@ -3,6 +3,7 @@
    - Melissa Gonzalez Nebrijo
    - Wilmer Bautista Ochoa
    - Juan Diego Garcia
+   - Jhon Carlos Valencia
 */
 
 % Data
