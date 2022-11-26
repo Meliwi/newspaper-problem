@@ -1,0 +1,5 @@
+num_pages = 10;
+Topics = {Interantional, National, Local, Sport, News};
+min_nb_pages = [5,4,2,2,1];
+max_nb_pages = [9,7,5,4,3];
+potential_readers = [1500, 2000, 1000, 1500, 750];
